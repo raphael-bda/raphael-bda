@@ -1,13 +1,12 @@
 # Olá, eu sou o Raphael! 👋
 
-Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no setor financeiro e estou em uma jornada para me tornar um **Analista de Dados**. Minha paixão se resume a solucionar problemas e gerar resultados, e fazer isso usando da tecnologia fica tudo mais incrível!
-
+Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no setor financeiro e estou em uma jornada para me tornar um **Analista de Dados**. Minha paixão se resume a solucionar problemas e gerar resultados.
 ---
 
 ### Sobre Mim
 
 -   🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** na UnifaTECIE.
--   🐍 Aprofundando meus conhecimentos em **Análise de Dados com cursos extracurriculares.
+-   🐍 Aprofundando meus conhecimentos em Análise de Dados com cursos extracurriculares.
 -   💼 Trabalho no setor financeiro do IEFE, onde meu foco é aplicar cobranças, porém usei do meu conhecimento para aplicar uma mentalidade orientada a dados para resolver problemas práticos, não só do meu setor quanto dos demais (Secretaria, Pedagógico etc).
 -   🚀 Busco oportunidades onde possa aplicar minhas habilidades em Python, SQL e Power BI para apoiar decisões de negócio e criar soluções inovadoras.
 
