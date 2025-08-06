@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no s
 ### Sobre Mim
 
 -   🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** na UnifaTECIE.
--   🐍 Aprofundando meus conhecimentos em **Análise de Dados com Python, pela ALURA** e ferramentas de BI.
+-   🐍 Aprofundando meus conhecimentos em **Análise de Dados com cursos extracurriculares.
 -   💼 Trabalho no setor financeiro do IEFE, onde meu foco é aplicar cobranças, porém usei do meu conhecimento para aplicar uma mentalidade orientada a dados para resolver problemas práticos, não só do meu setor quanto dos demais (Secretaria, Pedagógico etc).
 -   🚀 Busco oportunidades onde possa aplicar minhas habilidades em Python, SQL e Power BI para apoiar decisões de negócio e criar soluções inovadoras.
 
@@ -19,7 +19,7 @@ Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no s
   <summary><strong>🌐 Sistema de Gestão Interna - IEFE</strong></summary>
   
   - **Descrição:** Desenvolvi um site de gestão interna para a faculdade onde trabalho com o objetivo de centralizar informações, simplificar processos e automatizar tarefas manuais do dia a dia. A solução visa otimizar o tempo da equipe e melhorar a precisão dos dados.
-  - **Tecnologias Utilizadas:** HTML, CSS, JavaScript e caso aprovado utilizarei Python para o backend.
+  - **Tecnologias Utilizadas:** HTML, CSS, JavaScript e Python.
   - **Status:** Em desenvolvimento.
   - _Obs: Por ser um projeto interno, o código não é público. No entanto, posso discutir a arquitetura, os desafios e os resultados alcançados._
 
@@ -51,7 +51,7 @@ Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no s
 
 <p>
   <a href="https://www.linkedin.com/in/raphael-bda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu-email-aqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:raphabda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
