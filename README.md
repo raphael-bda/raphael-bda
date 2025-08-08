@@ -20,8 +20,8 @@ Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no s
   - **Descrição:** Desenvolvi um site de gestão interna para a faculdade onde trabalho com o objetivo de centralizar informações, simplificar processos e automatizar tarefas manuais do dia a dia. A solução visa otimizar o tempo da equipe e melhorar a precisão dos dados.
   - **Tecnologias Utilizadas:** HTML, CSS, JavaScript e Python.
   - **Status:** Em desenvolvimento.
-  - _Obs: Por ser um projeto interno, o código não é público. No entanto, posso discutir a arquitetura, os desafios e os resultados alcançados._
-
+  - _Obs: As informações contidas no site são fictícias._
+  - _Link: https://teller-system.vercel.app/_
 </details>
 
 ---
