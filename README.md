@@ -7,8 +7,8 @@ Bem-vindo(a) ao meu perfil! Sou um profissional analítico com experiência no s
 
 -   🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** na UnifaTECIE.
 -   🐍 Aprofundando meus conhecimentos em Análise de Dados com cursos extracurriculares.
--   💼 Trabalho no setor financeiro do IEFE, onde meu foco é aplicar cobranças, porém usei do meu conhecimento para aplicar uma mentalidade orientada a dados para resolver problemas práticos, não só do meu setor quanto dos demais (Secretaria, Pedagógico etc).
--   🚀 Busco oportunidades onde possa aplicar minhas habilidades em Python, SQL e Power BI para apoiar decisões de negócio e criar soluções inovadoras.
+-   💼 Trabalho atualmente no setor financeiro, onde meu foco é aplicar cobranças, porém usei do meu conhecimento para aplicar uma mentalidade orientada a dados para resolver problemas práticos, não só do meu setor quanto dos demais (Secretaria, Pedagógico etc).
+-   🚀 Busco oportunidades onde possa aplicar minhas habilidades em Python e SQL ara apoiar decisões de negócio e criar soluções inovadoras.
 
 ---
 
