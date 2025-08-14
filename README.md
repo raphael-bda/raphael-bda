@@ -1,5 +1,6 @@
-Raphael Barbosa
-Profissional do setor financeiro em transição de carreira para a área de Análise de Dados. Meu foco é utilizar Python, SQL e uma mentalidade analítica para otimizar processos e gerar insights que resolvem problemas reais.
+Olá!
+
+Me chamo Raphael, profissional financeiro em transição de carreira para a área de tecnologia. Meu foco é utilizar Python, SQL e uma mentalidade analítica para otimizar processos e gerar insights que resolvem problemas reais.
 
 💡 Atualmente, aplico meus conhecimentos em análise de dados na prática. No meu trabalho, desenvolvi um sistema de gestão interna (veja abaixo) para automatizar tarefas e otimizar processos não apenas na minha área, mas também para outros setores como Secretaria e Pedagógico.
 
