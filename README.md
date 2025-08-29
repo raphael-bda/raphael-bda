@@ -15,10 +15,9 @@ Construir uma trajetória sólida na tecnologia, criando soluções eficientes e
 <br>
 <ul>
 <li><strong>Descrição:</strong> Desenvolvi um site de gestão interna para a faculdade onde trabalho com o objetivo de centralizar informações, simplificar processos e automatizar tarefas manuais do dia a dia. A solução visa otimizar o tempo da equipe e melhorar a precisão dos dados.</li>
-<li><strong>Tecnologias:</strong> HTML, CSS, JavaScript e Python.</li>
+<li><strong>Tecnologias:</strong> HTML, CSS e JavaScript.</li>
 <li><strong>Status:</strong> Em desenvolvimento.</li>
 <li><strong>Link:</strong> <a href="https://teller-system.vercel.app/">teller-system.vercel.app</a></li>
-<li><em>Obs: As informações contidas no site são fictícias.</em></li>
 </ul>
 </details>
 
