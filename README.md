@@ -46,5 +46,3 @@ Construir uma trajetória sólida na tecnologia, criando soluções eficientes e
 <a href="https://www.linkedin.com/in/raphael-bda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:raphaelbda@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
-
-📞 Telefone: **(11) 97880-6490**
