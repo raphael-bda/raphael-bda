@@ -8,8 +8,6 @@
   <p>Minha jornada é sobre unir a <strong>precisão analítica</strong> do mercado financeiro com a <strong>criatividade</strong> da programação para construir soluções digitais que resolvem problemas reais.</p>
 </div>
 
-![Hacker Typing GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ## 💡 Sobre Mim
 
 Com um background sólido em **Finanças**, desenvolvi um olhar apurado para **detalhes, disciplina e uma forte capacidade analítica**. Hoje, aplico essas competências para criar código limpo e eficiente. Sou movido pela curiosidade, pela lógica e pela busca contínua de conhecimento.
